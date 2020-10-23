@@ -1,0 +1,362 @@
+{
+  "mitra": [
+    {
+      "id": "5f79bac05d8bef2134bde38c",
+      "fullname": "example name mitra",
+      "phone_number": "08231231212321",
+      "username": "mitra123",
+      "password": "mitra123",
+      "confirm_password": "mitra123",
+      "email": "mitra@email.com",
+      "no_account": "2231239212",
+      "bank_name": "bca",
+      "account_name": "example account bank name",
+      "name_venue": "candi prambanan",
+      "ticket_per_day": 400
+    },
+  ],
+  "tahun": [
+    {
+      "x": "Januari",
+      "y": 30
+    },
+    {
+      "x": "Februari",
+      "y": 40
+    },
+    {
+      "x": "Maret",
+      "y": 35
+    },
+    {
+      "x": "April",
+      "y": 50
+    },
+    {
+      "x": "Mei",
+      "y": 34
+    },
+    {
+      "x": "Juni",
+      "y": 35
+    },
+    {
+      "x": "Juli",
+      "y": 38
+    },
+    {
+      "x": "Agustus",
+      "y": 42
+    },
+    {
+      "x": "September",
+      "y": 43
+    },
+    {
+      "x": "Oktober",
+      "y": 44
+    },
+    {
+      "x": "November",
+      "y": 45
+    },
+    {
+      "x": "Desember",
+      "y": 60
+    }
+  ],
+  "bulan": [
+    {
+      "x": "Minggu 1",
+      "y": 30
+    },
+    {
+      "x": "Minggu 2",
+      "y": 30
+    },
+    {
+      "x": "Minggu 3",
+      "y": 30
+    },
+    {
+      "x": "Minggu 4",
+      "y": 30
+    }
+  ],
+  "pendapatan": [
+    {
+      "x": "GoPay",
+      "y": 30
+    },
+    {
+      "x": "OVO",
+      "y": 30
+    },
+    {
+      "x": "ShopeePay",
+      "y": 30
+    },
+    {
+      "x": "Bank",
+      "y": 30
+    }
+  ],
+  "minggu": [
+    {
+      "x": "Senin",
+      "y": 30
+    },
+    {
+      "x": "Selasa",
+      "y": 30
+    },
+    {
+      "x": "Rabu",
+      "y": 30
+    },
+    {
+      "x": "Kamis",
+      "y": 30
+    },
+    {
+      "x": "Jum'at",
+      "y": 30
+    },
+    {
+      "x": "Sabtu",
+      "y": 30
+    },
+    {
+      "x": "Minggu",
+      "y": 30
+    }
+  ],
+  "pie": {
+    "series": [
+      23,
+      11,
+      54,
+      72,
+      12
+    ],
+    "labels": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Papaya",
+      "Orange"
+    ]
+  },
+  "area": {
+    "series": [
+      {
+        "name": "Kas Masuk",
+        "data": [
+          31,
+          40,
+          28,
+          51,
+          42,
+          109,
+          100
+        ]
+      },
+      {
+        "name": "Kas Keluar",
+        "data": [
+          11,
+          32,
+          45,
+          32,
+          34,
+          52,
+          41
+        ]
+      }
+    ],
+    "chartOptions": {
+      "chart": {
+        "height": 350,
+        "type": "area"
+      },
+      "dataLabels": {
+        "enabled": false
+      },
+      "stroke": {
+        "curve": "smooth"
+      },
+      "xaxis": {
+        "type": "datetime",
+        "categories": [
+          "2018-09-19T00:00:00.000Z",
+          "2018-09-19T01:30:00.000Z",
+          "2018-09-19T02:30:00.000Z",
+          "2018-09-19T03:30:00.000Z",
+          "2018-09-19T04:30:00.000Z",
+          "2018-09-19T05:30:00.000Z",
+          "2018-09-19T06:30:00.000Z"
+        ]
+      },
+      "tooltip": {
+        "x": {
+          "format": "dd/MM/yy HH:mm"
+        }
+      }
+    }
+  },
+  "help": [
+    {
+      "nama": "dwi",
+      "username": "dwi123",
+      "open": "Open",
+      "pesan": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut, aliquid. Necessitatibus sint ipsam unde repellendus, ipsa nihil possimus sapiente illo praesentium pariatur animi delectus omnis laudantium, ",
+      "email": "member@argon.com",
+      "id": 1
+    },
+    {
+      "nama": "test",
+      "username": "test123",
+      "open": "Open",
+      "pesan": "ini pesan test aja ",
+      "email": "member@argon.com",
+      "id": 2
+    },
+    {
+      "nama": "test",
+      "username": "test123",
+      "open": "Open",
+      "pesan": "qweteqwtf",
+      "email": "member@argon.com",
+      "id": 3
+    },
+    {
+      "nama": "test",
+      "username": "test123",
+      "open": "Open",
+      "pesan": "qweteqwtf",
+      "email": "member@argon.com",
+      "id": 4
+    }
+  ],
+  "photos": [],
+  "detail": {
+    "mitra": {
+      "id": "5f7d9ee7b3837b6950ee31f4",
+      "product_id": "5f7d9ee7b3837b6950ee31f3",
+      "detail": {
+        "phone_number": "08231231212321",
+        "fullname": ""
+      },
+      "credential": {
+        "email": "",
+        "username": "mitra123"
+      },
+      "balance": {
+        "balance": 0,
+        "no_account": "2231239212",
+        "bank_name": "bca",
+        "account_name": "example account bank name"
+      }
+    },
+    "venue": {
+      "id": "5f7d9ee7b3837b6950ee31f3",
+      "name": "Candi Prambanan",
+      "ratting": 0,
+      "total_star": 0,
+      "photos": [],
+      "margin": 0,
+      "prices": [],
+      "discount": [],
+      "published": false,
+      "ticket_per_day": 0,
+      "stoks_ticket": [],
+      "recomended": false,
+      "detail": {
+        "address": "jl. raya solo - yogyakarta no.16, kranggan, bokoharjo, kec. prambanan, kabupaten sleman, daerah istimewa yogyakarta 55571, indonesia",
+        "nearest_town": "",
+        "sub_district": "",
+        "district": "",
+        "time_open": null,
+        "location": {
+          "type": "Point",
+          "coordinates": [
+            -7.752020600000001,
+            110.4914674
+          ],
+          "created_at": "2020-10-07T10:56:39.08Z",
+          "updated_at": "2020-10-07T10:56:39.08Z"
+        },
+        "phone_number": "08231231212321",
+        "descriptrion": "",
+        "map_url": "https://maps.google.com/?cid=1866636746462419501",
+        "created_at": "2020-10-07T10:56:39.08Z",
+        "updated_at": "2020-10-07T10:56:39.08Z"
+      },
+      "reviews": [],
+      "created_at": "2020-10-07T10:56:39.08Z",
+      "updated_at": "2020-10-07T10:56:39.08Z"
+    }
+  },
+  "list": {
+    "status": "success",
+    "mitra": [
+      {
+        "user": {
+          "id": "5f79bac05d8bef2134bde38a",
+          "name": "example_name",
+          "photo": "http://cdn.dolin.id/images/sdahsuhdasduasdhaisdsdsk239ue83dhs9ccaishd",
+          "type": "venue"
+        },
+        "venue": {
+          "id": "5f79bac05d8bef2134bde38a",
+          "name": "example venue name",
+          "total": 200,
+          "ratting": 4.5
+        }
+      },
+      {
+        "user": {
+          "id": "5f79bac05d8bef2134bde38b",
+          "name": "example_name",
+          "photo": "http://cdn.dolin.id/images/sdahsuhdasduasdhaisdsdsk239ue83dhs9ccaishd",
+          "type": "venue"
+        },
+        "venue": {
+          "id": "5f79bac05d8bef2134bde38b",
+          "name": "example venue name",
+          "total": 200,
+          "ratting": 4.5
+        }
+      },
+      {
+        "user": {
+          "id": "5f79bac05d8bef2134bde38c",
+          "name": "example_name",
+          "photo": "http://cdn.dolin.id/images/sdahsuhdasduasdhaisdsdsk239ue83dhs9ccaishd",
+          "type": "venue"
+        },
+        "venue": {
+          "id": "5f79bac05d8bef2134bde38c",
+          "name": "example venue name",
+          "total": 200,
+          "ratting": 4.5
+        }
+      },
+    ],
+    "next_page_token": "QVDUQJHFhqRjHpIrS2XnHfZfr6u2posj3sIHaG425e6QAP3gRXrS5dK6PnirUEE="
+  },
+  "custom_date": [
+    {
+      "id": 1,
+      "start": "2020-08-17T00:00:00Z",
+      "end": "2020-08-17T00:00:00Z",
+      "harga": 18000,
+      "deskripsi": "Hari Kemerdekaan RI 17 Agustus 1945"
+    },
+  ],
+  "user": {
+    "type": "success",
+    "username": "dwi123",
+    "password": "123"
+  }
+}
