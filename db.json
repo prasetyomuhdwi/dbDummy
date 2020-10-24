@@ -240,8 +240,8 @@
   ],
   "photos": [
     {
-      "photo": "http://placeimg.com/640/360/any",
-      "id": 4
+      "id":1,
+      "photo":"https://picsum.photos/940/660"
     }
   ],
   "detail": {
@@ -307,13 +307,13 @@
     "mitra": [
       {
         "user": {
-          "id": "5f79bac05d8bef2134bde38a",
+          "id": "5f79bac05d8bef2134bde38c",
           "name": "example_name",
           "photo": "http://cdn.dolin.id/images/sdahsuhdasduasdhaisdsdsk239ue83dhs9ccaishd",
           "type": "venue"
         },
         "venue": {
-          "id": "5f79bac05d8bef2134bde38a",
+          "id": "5f79bac05d8bef2134bde38c",
           "name": "example venue name",
           "total": 200,
           "ratting": 4.5
@@ -321,13 +321,27 @@
       },
       {
         "user": {
-          "id": "5f79bac05d8bef2134bde38b",
+          "id": "5f79bac05d8bef2134bde38c",
           "name": "example_name",
           "photo": "http://cdn.dolin.id/images/sdahsuhdasduasdhaisdsdsk239ue83dhs9ccaishd",
           "type": "venue"
         },
         "venue": {
-          "id": "5f79bac05d8bef2134bde38b",
+          "id": "5f79bac05d8bef2134bde38c",
+          "name": "example venue name",
+          "total": 200,
+          "ratting": 4.5
+        }
+      },
+      {
+        "user": {
+          "id": "5f79bac05d8bef2134bde38c",
+          "name": "example_name",
+          "photo": "http://cdn.dolin.id/images/sdahsuhdasduasdhaisdsdsk239ue83dhs9ccaishd",
+          "type": "venue"
+        },
+        "venue": {
+          "id": "5f79bac05d8bef2134bde38c",
           "name": "example venue name",
           "total": 200,
           "ratting": 4.5
@@ -348,7 +362,7 @@
         }
       }
     ],
-    "next_page_token": "QVDUQJHFhqRjHpIrS2XnHfZfr6u2posj3sIHaG425e6QAP3gRXrS5dK6PnirUEE="
+    "next_page_token": "8dEAQJHFhqRjHpIrS2XnHfZfr6u2posj3sIHaG425e6QAP3gRXrS5dK6PnirUEE="
   },
   "custom_date": [
     {
@@ -357,6 +371,34 @@
       "end": "2020-08-17T00:00:00Z",
       "harga": 18000,
       "deskripsi": "Hari Kemerdekaan RI 17 Agustus 1945"
+    },
+    {
+      "start": "2020-10-24",
+      "end": "2020-10-24",
+      "harga": "10000",
+      "deskripsi": "test",
+      "id": 2
+    },
+    {
+      "start": "2020-10-21",
+      "end": "2020-10-21",
+      "harga": "14000",
+      "deskripsi": "test 2",
+      "id": 3
+    },
+    {
+      "start": "2020-11-16",
+      "end": "2020-11-16",
+      "harga": "1234566",
+      "deskripsi": "apapapa",
+      "id": 4
+    },
+    {
+      "start": "2020-11-11",
+      "end": "2020-11-25",
+      "harga": "20000",
+      "deskripsi": "Test Header",
+      "id": 5
     }
   ],
   "user": {
